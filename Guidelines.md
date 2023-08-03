@@ -12,4 +12,12 @@
 
 5. If you are willing to then you can create a complete comprehensive notes like Batch 18-22 folder and create a new folder named Batch XY-XZ and follow the same structure as the "Batch 18-22" folder.
 
-6. 
+6. If you want you are free to mention your name in the first page of your notes.
+
+7. Kindly name the folders properly i.e. if it contains only cie 1 syllabus name it as cie 1, mod 1 for only mod 1 or complete if it contains all in one document.
+
+8. If 2 documents contain the same/similar content then merge them into 1 and delete the other file.
+
+9. Only upload document/file which is not there.
+
+10. Kindly mention your USN in the commit msg body if possible, easier to track legitimate commit request.
