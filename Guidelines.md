@@ -10,6 +10,8 @@
 4. If you want to upload the notes given by your teachers/pdf notes etc. then create a new folder named readymade notes and upload it in that.
    Subject-wise -> Subject-name -> Readymade notes -> Teacher notes.
 
+    -> Upload QB/Syllabus copy etc., also in the same Readymade folder with appropriate name.
+
 5. If you are willing to then you can create a complete comprehensive notes like Batch 18-22 folder and create a new folder named Batch XY-XZ and follow the same structure as the "Batch 18-22" folder.
 
 6. If you want you are free to mention your name in the first page of your notes.
